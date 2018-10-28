@@ -25,18 +25,13 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
+<v t="leo.20180827201621.12"><vh>Week1</vh></v>
+<v t="leo.20181028225316.1"><vh>Week2</vh></v>
+<v t="leo.20181028225319.1"><vh>Week3</vh></v>
+<v t="leo.20181028225321.1"><vh>Week4</vh></v>
+<v t="leo.20181028225322.1"><vh>Week5</vh></v>
+<v t="leo.20181028225324.1"><vh>Week6</vh></v>
+<v t="leo.20181028225513.1"><vh>Week7</vh></v>
 </v>
 </v>
 </v>
@@ -124,15 +119,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 四設計二乙 40623218 姚浚洧
+<t tx="leo.20180827201621.10">## 四設計二乙 40623218 投影片
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by mdepcad 40623218
 &lt;/small&gt;
 
-[網誌](./../blog/index.html)
+[網誌](./../https://mdecadp2018.github.io/site-40623218/blog)
 
 
 </t>
@@ -145,93 +140,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12">##Week1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+*建立自己的github
+*設定自己的倉儲環境</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -325,6 +237,26 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181028225316.1">##Week2
+
+*領取期中作業
+*每周更新自己的網誌</t>
+<t tx="leo.20181028225319.1">##Week3
+
+*中秋節放假</t>
+<t tx="leo.20181028225321.1">##Week4
+
+*介紹Onshape功能
+*練習Onshape內部的指令</t>
+<t tx="leo.20181028225322.1">##Week5
+
+</t>
+<t tx="leo.20181028225324.1">##Week6
+
+</t>
+<t tx="leo.20181028225513.1">##Week7
+
 </t>
 </tnodes>
 </leo_file>
