@@ -142,7 +142,7 @@ vertical: body pane on the botton</t>
 Created by mdepcad 40623218
 &lt;/small&gt;
 
-[網誌](./../https://mdecadp2018.github.io/site-40623218/blog)
+[網誌](https://mdecadp2018.github.io/site-40623218/blog)
 
 
 </t>
@@ -158,7 +158,8 @@ Created by mdepcad 40623218
 <t tx="leo.20180827201621.12">##Week1
 
 *建立自己的github
-*設定自己的倉儲環境
+*下載p37設定自己的倉儲環境
+*利用git建立個人的Github
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -268,7 +269,7 @@ Created by mdepcad 40623218
 
 *領取期中作業
 *每周更新自己的網誌
-
+*設定github分支
 </t>
 <t tx="leo.20181108211002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -281,7 +282,7 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211002.4">##Week3
 
-*中秋節放假
+*中秋節放假一天
 
 </t>
 <t tx="leo.20181108211004.1">&lt;section data-markdown&gt;
@@ -310,7 +311,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211006.6">##Week5
 
-</t>
+*更新個人網站 網誌 投影片
+*利用eric6編寫投影片,網誌</t>
 <t tx="leo.20181108211007.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -344,7 +346,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211126.9">##Week7
+<t tx="leo.20181108211126.9">##Week8
 
 </t>
 </tnodes>
