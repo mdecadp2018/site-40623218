@@ -155,7 +155,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20180827201621.12">##Week1
+<t tx="leo.20180827201621.12">## Week1
 
 *建立自己的github
 *下載p37設定自己的倉儲環境
@@ -265,7 +265,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211001.3">##Week2
+<t tx="leo.20181108211001.3">## Week2
 
 *領取期中作業
 *每周更新自己的網誌
@@ -280,7 +280,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211002.4">##Week3
+<t tx="leo.20181108211002.4">## Week3
 
 *中秋節放假一天
 
@@ -294,7 +294,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211004.5">##Week4
+<t tx="leo.20181108211004.5">## Week4
 
 *介紹Onshape功能
 *練習Onshape內部的指令
@@ -309,7 +309,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211006.6">##Week5
+<t tx="leo.20181108211006.6">## Week5
 
 *更新個人網站 網誌 投影片
 *利用eric6編寫投影片,網誌
@@ -324,7 +324,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211007.7">##Week6
+<t tx="leo.20181108211007.7">## Week6
 
 *學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示</t>
 <t tx="leo.20181108211009.1">&lt;section data-markdown&gt;
@@ -336,7 +336,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211009.8">##Week7
+<t tx="leo.20181108211009.8">## Week7
 
 *更新p37
 *因github無法使用尋找其他解決方案</t>
@@ -349,7 +349,7 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211126.9">##Week8
+<t tx="leo.20181108211126.9">## Week8
 
 *期末專題分組</t>
 </tnodes>
