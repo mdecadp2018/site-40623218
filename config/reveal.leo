@@ -312,7 +312,9 @@ Created by mdepcad 40623218
 <t tx="leo.20181108211006.6">##Week5
 
 *更新個人網站 網誌 投影片
-*利用eric6編寫投影片,網誌</t>
+*利用eric6編寫投影片,網誌
+
+</t>
 <t tx="leo.20181108211007.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -324,7 +326,7 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211007.7">##Week6
 
-</t>
+*學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示</t>
 <t tx="leo.20181108211009.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -336,7 +338,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211009.8">##Week7
 
-</t>
+*更新p37
+*因github無法使用尋找其他解決方案</t>
 <t tx="leo.20181108211126.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -348,6 +351,6 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211126.9">##Week8
 
-</t>
+*期末專題分組</t>
 </tnodes>
 </leo_file>

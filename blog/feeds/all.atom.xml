@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-22T11:00:00+08:00</updated><entry><title>Week7</title><link href="./2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-w7.html</id><summary type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="./2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog-w6.html</id><summary type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="./2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-w5.html</id><summary type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="./2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="./2018-Fall-Project-Blog-w2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-w2.html</id><summary type="html">&lt;p&gt;領取期中作業,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week8</title><link href="./2018-Fall-Project-Blog-w8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-w8.html</id><summary type="html">&lt;p&gt;複習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;複習&lt;/p&gt;
+
+
+&lt;p&gt;尋找組員準備好期中考之後的分組作業&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week7</title><link href="./2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-w7.html</id><summary type="html">&lt;p&gt;github主機故障,利用Fossil SCM來協同&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;github主機故障,利用Fossil SCM來協同&lt;/p&gt;
+
+
+&lt;p&gt;因為github連線出問題，導致無法使用，使用Fossil SCM來進行協同。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="./2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog-w6.html</id><summary type="html">&lt;p&gt;複習之前的所學&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;複習之前的所學&lt;/p&gt;
+
+
+&lt;p&gt;學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="./2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-w5.html</id><summary type="html">&lt;p&gt;練習更多Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;練習更多Onshape&lt;/p&gt;
+
+
+&lt;p&gt;1.學會尺寸約束&lt;/p&gt;
+&lt;p&gt;2.繪製複雜的零件 &lt;/p&gt;
+&lt;p&gt;3.草圖繪製平面&lt;/p&gt;
+&lt;p&gt;4.平面建立的觀念&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="./2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;介紹Onshape功能以及利用Onshape繪圖&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;介紹Onshape功能以及利用Onshape繪圖&lt;/p&gt;
+
+
+&lt;p&gt;Onshape是一款線上的繪圖軟體,可以利用網頁來繪圖,類似於Inventer,SolidWork並且它可以雲端共享.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="./2018-Fall-Project-Blog-w2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-w2.html</id><summary type="html">&lt;p&gt;領取期中作業,&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;領取期中作業,&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="./2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;開啟自己的Github,準備好倉儲環境.
+
+
+&lt;p&gt;1.設定github分支&lt;/p&gt;
+&lt;p&gt;2.定期更新網誌&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="./2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;開啟自己的Github,準備好倉儲環境.
 </summary><content type="html">&lt;p&gt;開啟自己的Github,準備好倉儲環境.
-&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;/p&gt;
+&lt;p&gt;1.建立一個學號.github.io的個人倉儲(40623218.github.io)並git clone到近端。&lt;/p&gt;
+&lt;p&gt;2.示範如何管理CMSimfly靜態網頁、編輯簡報內容，如何建立網誌。&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
