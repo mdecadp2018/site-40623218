@@ -24,14 +24,29 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>Week1</vh>
 <v t="leo.20180827201621.12"><vh>Week1</vh></v>
-<v t="leo.20181028225316.1"><vh>Week2</vh></v>
-<v t="leo.20181028225319.1"><vh>Week3</vh></v>
-<v t="leo.20181028225321.1"><vh>Week4</vh></v>
-<v t="leo.20181028225322.1"><vh>Week5</vh></v>
-<v t="leo.20181028225324.1"><vh>Week6</vh></v>
-<v t="leo.20181028225513.1"><vh>Week7</vh></v>
+</v>
+<v t="leo.20181108211001.1" a="E"><vh>Week2</vh>
+<v t="leo.20181108211001.3"><vh>Week2</vh></v>
+</v>
+<v t="leo.20181108211002.1" a="E"><vh>Week3</vh>
+<v t="leo.20181108211002.4"><vh>Week3</vh></v>
+</v>
+<v t="leo.20181108211004.1" a="E"><vh>Week4</vh>
+<v t="leo.20181108211004.5"><vh>Week4</vh></v>
+</v>
+<v t="leo.20181108211006.1" a="E"><vh>Week5</vh>
+<v t="leo.20181108211006.6"><vh>Week5</vh></v>
+</v>
+<v t="leo.20181108211007.1" a="E"><vh>Week6</vh>
+<v t="leo.20181108211007.7"><vh>Week6</vh></v>
+</v>
+<v t="leo.20181108211009.1" a="E"><vh>Week7</vh>
+<v t="leo.20181108211009.8"><vh>Week7</vh></v>
+</v>
+<v t="leo.20181108211126.1" a="E"><vh>Week8</vh>
+<v t="leo.20181108211126.9"><vh>Week8</vh></v>
 </v>
 </v>
 </v>
@@ -143,7 +158,9 @@ Created by mdepcad 40623218
 <t tx="leo.20180827201621.12">##Week1
 
 *建立自己的github
-*設定自己的倉儲環境</t>
+*設定自己的倉儲環境
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -238,24 +255,96 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181028225316.1">##Week2
+<t tx="leo.20181108211001.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211001.3">##Week2
 
 *領取期中作業
-*每周更新自己的網誌</t>
-<t tx="leo.20181028225319.1">##Week3
+*每周更新自己的網誌
 
-*中秋節放假</t>
-<t tx="leo.20181028225321.1">##Week4
+</t>
+<t tx="leo.20181108211002.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211002.4">##Week3
+
+*中秋節放假
+
+</t>
+<t tx="leo.20181108211004.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211004.5">##Week4
 
 *介紹Onshape功能
-*練習Onshape內部的指令</t>
-<t tx="leo.20181028225322.1">##Week5
+*練習Onshape內部的指令
 
 </t>
-<t tx="leo.20181028225324.1">##Week6
+<t tx="leo.20181108211006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211006.6">##Week5
 
 </t>
-<t tx="leo.20181028225513.1">##Week7
+<t tx="leo.20181108211007.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211007.7">##Week6
+
+</t>
+<t tx="leo.20181108211009.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211009.8">##Week7
+
+</t>
+<t tx="leo.20181108211126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211126.9">##Week7
 
 </t>
 </tnodes>
