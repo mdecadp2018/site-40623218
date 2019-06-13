@@ -154,8 +154,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20180827201621.12">## 十一週
 
-*期末手足球系統，我負責零組件尺寸分析
-*繪製實習任務三</t>
+* 期末手足球系統，我負責零組件尺寸分析
+* 繪製實習任務三</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -261,8 +261,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211001.3">## 十二週
 
-*主要進行球員與球的尺寸分析
-*加入scrum-2並加入fork</t>
+* 主要進行球員與球的尺寸分析
+* 加入scrum-2並加入fork</t>
 <t tx="leo.20181108211002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -274,8 +274,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211002.4">## 十三週
 
-*更改手足球平台
-*尋找哪裡還有需要改進的地方
+* 更改手足球平台
+* 尋找哪裡還有需要改進的地方
 </t>
 <t tx="leo.20181108211004.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -288,8 +288,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211004.5">## 十四週
 
-*更改出了兩種手足球檯
-*與小組討論並上傳影片Youtube
+* 更改出了兩種手足球檯
+* 與小組討論並上傳影片Youtube
 </t>
 <t tx="leo.20181108211006.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -302,8 +302,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211006.6">## 十五週
 
-*選出小組要用的手足球檯
-*尋找尺寸哪裡還有問題
+* 選出小組要用的手足球檯
+* 尋找尺寸哪裡還有問題
 </t>
 <t tx="leo.20181108211007.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -316,8 +316,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211007.7">## 十六週
 
-*更新個人的網頁
-*製作投影片
+* 更新個人的網頁
+* 製作投影片
 </t>
 <t tx="leo.20181108211009.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -330,8 +330,8 @@ Created by mdepcad 40623218
 </t>
 <t tx="leo.20181108211009.8">## 十七週
 
-*上傳pull request
-*上傳個人期末影片
+* 上傳pull request
+* 上傳個人期末影片
 </t>
 </tnodes>
 </leo_file>
