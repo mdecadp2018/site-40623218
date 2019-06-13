@@ -24,29 +24,26 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>Week1</vh>
-<v t="leo.20180827201621.12"><vh>Week1</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>Week11</vh>
+<v t="leo.20180827201621.12"><vh>Week11</vh></v>
 </v>
-<v t="leo.20181108211001.1" a="E"><vh>Week2</vh>
-<v t="leo.20181108211001.3"><vh>Week2</vh></v>
+<v t="leo.20181108211001.1" a="E"><vh>Week12</vh>
+<v t="leo.20181108211001.3"><vh>Week12</vh></v>
 </v>
-<v t="leo.20181108211002.1" a="E"><vh>Week3</vh>
-<v t="leo.20181108211002.4"><vh>Week3</vh></v>
+<v t="leo.20181108211002.1" a="E"><vh>Week13</vh>
+<v t="leo.20181108211002.4"><vh>Week13</vh></v>
 </v>
-<v t="leo.20181108211004.1" a="E"><vh>Week4</vh>
-<v t="leo.20181108211004.5"><vh>Week4</vh></v>
+<v t="leo.20181108211004.1" a="E"><vh>Week14</vh>
+<v t="leo.20181108211004.5"><vh>Week14</vh></v>
 </v>
-<v t="leo.20181108211006.1" a="E"><vh>Week5</vh>
-<v t="leo.20181108211006.6"><vh>Week5</vh></v>
+<v t="leo.20181108211006.1" a="E"><vh>Week15</vh>
+<v t="leo.20181108211006.6"><vh>Week15</vh></v>
 </v>
-<v t="leo.20181108211007.1" a="E"><vh>Week6</vh>
-<v t="leo.20181108211007.7"><vh>Week6</vh></v>
+<v t="leo.20181108211007.1" a="E"><vh>Week16</vh>
+<v t="leo.20181108211007.7"><vh>Week16</vh></v>
 </v>
-<v t="leo.20181108211009.1" a="E"><vh>Week7</vh>
-<v t="leo.20181108211009.8"><vh>Week7</vh></v>
-</v>
-<v t="leo.20181108211126.1" a="E"><vh>Week8</vh>
-<v t="leo.20181108211126.9"><vh>Week8</vh></v>
+<v t="leo.20181108211009.1" a="E"><vh>Week17</vh>
+<v t="leo.20181108211009.8"><vh>Week17</vh></v>
 </v>
 </v>
 </v>
@@ -134,15 +131,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 四設計二乙 40623218 投影片
-
+<t tx="leo.20180827201621.10">##2019 協同產品設計實習
+###四設計二乙 40623218 個人簡報
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by mdepcad 40623218
 &lt;/small&gt;
 
-[網誌](https://mdecadp2018.github.io/site-40623218/blog)
+[個人網站](https://mdecadp2018.github.io/site-40623218)
 
 
 </t>
@@ -155,13 +152,10 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20180827201621.12">## Week1
+<t tx="leo.20180827201621.12">## 十一週
 
-*建立自己的github
-*下載p37設定自己的倉儲環境
-*利用git建立個人的Github
-
-</t>
+*期末手足球系統，我負責零組件尺寸分析
+*繪製實習任務三</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -265,12 +259,10 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211001.3">## Week2
+<t tx="leo.20181108211001.3">## 十二週
 
-*領取期中作業
-*每周更新自己的網誌
-*設定github分支
-</t>
+*主要進行球員與球的尺寸分析
+*加入scrum-2並加入fork</t>
 <t tx="leo.20181108211002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -280,10 +272,10 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211002.4">## Week3
+<t tx="leo.20181108211002.4">## 十三週
 
-*中秋節放假一天
-
+*更改手足球平台
+*尋找哪裡還有需要改進的地方
 </t>
 <t tx="leo.20181108211004.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -294,11 +286,10 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211004.5">## Week4
+<t tx="leo.20181108211004.5">## 十四週
 
-*介紹Onshape功能
-*練習Onshape內部的指令
-
+*更改出了兩種手足球檯
+*與小組討論並上傳影片Youtube
 </t>
 <t tx="leo.20181108211006.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -309,11 +300,10 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211006.6">## Week5
+<t tx="leo.20181108211006.6">## 十五週
 
-*更新個人網站 網誌 投影片
-*利用eric6編寫投影片,網誌
-
+*選出小組要用的手足球檯
+*尋找尺寸哪裡還有問題
 </t>
 <t tx="leo.20181108211007.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -324,9 +314,11 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211007.7">## Week6
+<t tx="leo.20181108211007.7">## 十六週
 
-*學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示</t>
+*更新個人的網頁
+*製作投影片
+</t>
 <t tx="leo.20181108211009.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -336,21 +328,10 @@ Created by mdepcad 40623218
 
 						
 </t>
-<t tx="leo.20181108211009.8">## Week7
+<t tx="leo.20181108211009.8">## 十七週
 
-*更新p37
-*因github無法使用尋找其他解決方案</t>
-<t tx="leo.20181108211126.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
+*上傳pull request
+*上傳個人期末影片
 </t>
-<t tx="leo.20181108211126.9">## Week8
-
-*期末專題分組</t>
 </tnodes>
 </leo_file>
